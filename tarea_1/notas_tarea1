@@ -1,0 +1,214 @@
+    1  cd ~/act1
+    2  ls
+    3  sudo chmod 777 act.txt
+    4  ls
+    5  mkdir 'act1'
+    6  ls
+    7  mkdir act1
+    8  cd act1
+    9  man mkdir
+   10  man mkdir
+   11  mkdir man
+   12  ls
+   13  mkdir folder
+   14  ls
+   15  cd folder
+   16  ls
+   17  mkdir subfolder
+   18  ls
+   19  touch text.txt
+   20  ls
+   21  touch act1
+   22  ls
+   23  touch.txt
+   24  touch act1.txt
+   25  ls
+   26  echo 'holi' > act1.txt
+   27  ls
+   28  cp act1.txt
+   29  cp --help
+   30  cp act1.txt act1
+   31  .
+   32  cd.
+   33  cd.
+   34  cd .
+   35  cd ..
+   36  ls
+   37  cp act1.txt act1
+   38  ls
+   39  cd folder
+   40  ls
+   41  cp text.txt /act1
+   42  cp text.txt /act1
+   43  ..
+   44  cd..
+   45  cd..
+   46   cd ..
+   47  ls
+   48  cd folder
+   49  ls
+   50  cd --help
+   51  cp --help
+   52  cd ..
+   53  mkdir -p folder2/subfolder2
+   54  ls
+   55  cd subfolder2
+   56  cd folder2
+   57  ls
+   58  cd subfolder2
+   59  echo "hola mundo" > act.txt
+   60  ls
+   61  cp ./act.txt ../../
+   62  touch act2.txt
+   63  history > act2.txt
+   64  cp act2.txt ~/act1
+   65  cd ~act1
+   66  cd ~/act1
+   67  ls
+   68  sudo chmod 777 act1.txt
+   69  sudo chmod 777 act.txt
+   70  sudo chmod 777 act.txt
+   71  sudo chmod 777 act.txt
+   72  rm folder
+   73  ls
+   74  rm -r folder
+   75  ls
+   76  rm -r act1
+   77  cd ..
+   78  ls
+   79  rm -r act1
+   80  mkdir Data_Science
+   81  cd Data:Science
+   82  cd Data_Science
+   83  git clone https://github.com/Bluxor/git-demo-dsfe.git
+   84  ls
+   85  cd git-demo-dsfe/
+   86  git checkout -b add-demo-files
+   87  ls
+   88  touch helloworld.py
+   89  ls
+   90  mkdir secrets
+   91  ls
+   92  touch secret.txt
+   93  ls
+   94  rm secret.txt
+   95  ls
+   96  cd secrets
+   97  ls
+   98  touch secrets.txt
+   99  ls
+  100  ls -a
+  101  cd ..
+  102  commit 
+  103  commit --h
+  104  man git
+  105  man git-add
+  106  man cd
+  107  git-add --help
+  108  git-add --h
+  109  cp --f
+  110  cp --help
+  111  git-add --help
+  112  git --help
+  113  git help add
+  114  commit help
+  115  commit help add
+  116  git help commit
+  117  git commit
+  118  git config --global user.email "blumenkron@gmail.com"
+  119  git config --global user.name "Bluxor"
+  120  git commit
+  121  git add .
+  122  git commit
+  123  git status
+  124  git push
+  125  git push origin add-demo-files
+  126  git checkout main
+  127  git pull
+  128  ls
+  129  history > clase1_history.txt
+  130  ls
+  131  git commit -m "agrego archivo de historial clase 1"
+  132  git add .
+  133  git commit -m "agrego archivo de historial clase 1"
+  134  git push
+  135  ls
+  136  cd Data_Science
+  137  ls
+  138  git clone 
+  139  git clone https://github.com/Bluxor/git-datascience4e-Tareas-FB.git
+  140  cd git-datascience4e-Tareas-FB/
+  141  git checkout -b nueva-rama-tarea-1
+  142  mkdir static/css
+  143  mkdir -p static/css
+  144  ls
+  145  mkdir templates
+  146  touch app.py
+  147  cd static
+  148  ls
+  149  mkdir js
+  150  ls
+  151  cd..
+  152  cd ,,
+  153  cd ..
+  154  ls
+  155  cd templates
+  156  touch index.html
+  157  ls
+  158  cd ..
+  159  ls
+  160  git commit -m "Estructura de carpetas creada"
+  161  git add .
+  162  git commit -m "Estructura de carpetas creada"
+  163  git status
+  164  git push origin nueva-rama-tarea-1
+  165  ls
+  166  history > command_history.txt
+  167  git commit -m "Historial de comandos guardado en revision"
+  168  git add .
+  169  git commit -m "Historial de comandos guardado en revision"
+  170  git push origin nueva-rama-tarea-1
+  171  ls
+  172  git push origin nueva-rama-tarea-1
+  173  git commit -m "Historial de comandos guardado en revision"
+  174  git checkout main
+  175  ls
+  176  mkdir templates
+  177  history > clase1_history.txt
+  178  cd templates
+  179  touch index.html
+  180  ls
+  181  cd.. 
+  182  cd ..
+  183  ls
+  184  git add .
+  185  git commit -m "historial de comandos guardado a revision"
+  186  git push
+  187  git push origin
+  188  git push origin git-datascience4e-Tareas-FB
+  189  cd Data:Science
+  190  clear
+  191  cd Data_Science
+  192  git clone https://github.com/Bluxor/Tareas.git
+  193  cd tareas
+  194  git checkout -b tarea1
+  195  mkdir static
+  196  mkdir templates
+  197  touch app.py
+  198  cd static
+  199  mkdir css
+  200  mkdir js
+  201  ls
+  202  cd ..
+  203  ls
+  204  git commit -m "estructura de carpetas creada"
+  205  git add .
+  206  git commit -m "estructura de carpetas creada"
+  207  ls
+  208  history > command_history.txt
+  209  git add .
+  210  git commit -m "historial de comandos guardado a revision"
+  211  ls
+  212  git push origin tarea1
+  213  git checkout main
+  214  history > notas_tarea1
